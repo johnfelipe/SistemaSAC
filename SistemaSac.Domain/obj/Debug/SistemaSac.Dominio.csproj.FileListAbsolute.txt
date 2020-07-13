@@ -1,0 +1,6 @@
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\bin\Debug\SistemaSac.Domain.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\bin\Debug\SistemaSac.Domain.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\obj\Debug\SistemaSac.Dominio.csprojAssemblyReference.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\obj\Debug\SistemaSac.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\obj\Debug\SistemaSac.Domain.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Domain\obj\Debug\SistemaSac.Domain.pdb

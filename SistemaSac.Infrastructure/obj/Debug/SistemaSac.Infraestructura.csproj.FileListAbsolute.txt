@@ -1,0 +1,6 @@
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\bin\Debug\SistemaSac.Infrastructure.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\bin\Debug\SistemaSac.Infrastructure.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\obj\Debug\SistemaSac.Infraestructura.csprojAssemblyReference.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\obj\Debug\SistemaSac.Infraestructura.csproj.CoreCompileInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\obj\Debug\SistemaSac.Infrastructure.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Infrastructure\obj\Debug\SistemaSac.Infrastructure.pdb

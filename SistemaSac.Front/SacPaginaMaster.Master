@@ -1,0 +1,313 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SacPaginaMaster.master.cs" Inherits="SistemaSac.Front.SacPaginaMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Sistema SAC</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximun-scale=1, user-scalable=no" />
+
+    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="css/font-awesome.css" />
+    <link rel="stylesheet" href="EstilosSac/Estilos.css" type="text/css" />
+    <!-- Ionicons -->
+    <link href="css/ionicons.min.css" rel="stylesheet" type="text/css" />
+    <link href="css/AdminLTE.css" rel="stylesheet" type="text/css" />
+    <link href="jquery/jAlert/jquery.alerts.css" rel="stylesheet" type="text/css" />
+
+    <!-- DataTables -->
+    <link href="css/datatables/dataTables.bootstrap.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body class="skin-blue">
+
+    <header class="header">
+
+        <!-- INICIO CABECERA -->
+        <a href="#" class="logo" >S.A.C.</a>
+        <nav class="navbar navbar-static-top" role="navigation">
+            <a href="#" class="navbar-btn sidebar-toggle" data-toggle="offcanvas" role="button">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </a>
+            <div class="navbar-right">
+                <ul class="nav navbar-nav">
+                    <li class="dropdown user user-menu no-cursor">
+                        <a>
+                            <i class="glyphicon glyphicon-user"></i>
+                            <span id="close">Cerrar Sesión</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+        <!-- FIN CABECERA -->
+
+    </header>
+    <div class="wrapper row-offcanvas row-offcanvas-left">
+        <aside class="left-side sidebar-offcanvas">
+            <section class="sidebar">
+                <div class="user-panel">
+                    <div class="pull-left image">
+                        <img src="img/avatar5.png" class="img-circle" alt="User Image" />
+                    </div>
+                    <div class="pull-left info">
+                        <p>Bienvenido Sr(a). Mauricio C.</p>
+                    </div>
+                </div>
+                <ul class="sidebar-menu">
+                    <li class="active">
+                        <a href="#">
+                            <i class="fa fa-dashboard"></i>
+                            <span>Código Carpeta</span>
+                            <form id="form2" runat="server">
+                                    <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+                                    <asp:CheckBox ID="CheckBox1" runat="server" />
+                            </form>
+                        </a>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Edición General</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Inspector Fiscal</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Contratista</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Residente</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Profesional Ext.</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Visitador</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Edición Licitaciones</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Plan Licitación</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Licitación</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Opciones Contrato</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Contrato</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Carpeta Digital</a>
+                            </li>
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-th"></i>
+                                    <span>Minuta</span>
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-th"></i>
+                                    <span>EEPP</span>
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-th"></i>
+                                    <span>Garantías</span>
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="treeview">
+                                <a href="#">
+                                    <i class="fa fa-th"></i>
+                                    <span>Recepciones</span>
+                                    <i class="fa fa-angle-left pull-right"></i>
+                                </a>
+                                <ul class="treeview-menu">
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                                    </li>
+                                    <li>
+                                        <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Estado Pago</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>UCSDObras</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Laboratorio</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                            </li>
+                        </ul>
+                    </li>
+                     <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Reportes</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                         <ul class="treeview-menu">
+                             <li>
+                                 <a href="#"><i class="fa fa-angle-double-right"></i>Minuta de Obras</a>
+                             </li>
+                             <li>
+                                 <a href="#"><i class="fa fa-angle-double-right"></i>Listado de Obras</a>
+                             </li>
+                             <li>
+                                 <a href="#"><i class="fa fa-angle-double-right"></i>Mano de Obra</a>
+                             </li>
+                             <li>
+                                 <a href="#"><i class="fa fa-angle-double-right"></i>Historial</a>
+                             </li>
+                             <li>
+                                 <a href="#"><i class="fa fa-angle-double-right"></i>Biblioteca</a>
+                             </li>
+                         </ul>
+                    </li>
+                    <li class="treeview">
+                        <a href="#">
+                            <i class="fa fa-th"></i>
+                            <span>Administración</span>
+                            <i class="fa fa-angle-left pull-right"></i>
+                        </a>
+                        <ul class="treeview-menu">
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 1</a>
+                            </li>
+                            <li>
+                                <a href="#"><i class="fa fa-angle-double-right"></i>Opción 2</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </section>
+        </aside>
+         <aside class="right-side">
+        <section class="content-header">
+            <h1>
+                <asp:Label ID="lblOpcionMenu" runat="server" Text="Panel General.."></asp:Label>
+            </h1>
+        </section>
+        <section class="content">
+            <%-- <form id="form1" runat="server">--%>
+                
+                <div>
+                    <asp:ContentPlaceHolder ID="contentBody" runat="server">
+                        <!-- Carga de contenido dinamico dentro de MASTERPAGE-->
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            <%--  </form>--%>
+        </section>
+    </aside>
+    </div>
+
+    <script src="jquery/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="jquery/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="js/AdminLTE/app.js" type="text/javascript"></script>
+
+    <script src="jquery/jAlert/jquery.alerts.js" type="text/javascript"></script>
+    <script src="jquery/jquery.ui.draggable.js" type="text/javascript"></script>
+
+    <script src="js/plugins/datatables/jquery.dataTables.js"></script>
+    <script src="js/plugins/datatables/dataTables.bootstrap.js"></script>
+    <script src="js/logout.js"></script>
+
+    <asp:ContentPlaceHolder ID="footer" runat="server">
+    </asp:ContentPlaceHolder>
+
+</body>
+</html>
+
