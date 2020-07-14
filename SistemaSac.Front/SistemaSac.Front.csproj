@@ -406,10 +406,18 @@
     <Content Include="js\plugins\timepicker\bootstrap-timepicker.js" />
     <Content Include="js\plugins\timepicker\bootstrap-timepicker.min.js" />
     <Content Include="EstilosSac\Estilos.css" />
+    <Content Include="Modulos\Contrato\Contrato.aspx" />
     <Content Include="PaginaInicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Modulos\Contrato\Contrato.aspx.cs">
+      <DependentUpon>Contrato.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Contrato\Contrato.aspx.designer.cs">
+      <DependentUpon>Contrato.aspx</DependentUpon>
+    </Compile>
     <Compile Include="PaginaInicio.aspx.cs">
       <DependentUpon>PaginaInicio.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
