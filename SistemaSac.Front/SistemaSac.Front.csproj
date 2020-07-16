@@ -280,8 +280,7 @@
     <Content Include="js\AdminLTE\dashboard.js" />
     <Content Include="js\AdminLTE\demo.js" />
     <Content Include="js\bootstrap.min.js" />
-    <Content Include="js\GestionarHorarioAtencion.js" />
-    <Content Include="js\GestionarPaciente.js" />
+    <Content Include="js\Contrato\GestionarContrato.js" />
     <Content Include="js\logout.js" />
     <Content Include="js\plugins\bootstrap-slider\bootstrap-slider.js" />
     <Content Include="js\plugins\bootstrap-wysihtml5\bootstrap3-wysihtml5.all.min.js" />
@@ -406,17 +405,25 @@
     <Content Include="js\plugins\timepicker\bootstrap-timepicker.js" />
     <Content Include="js\plugins\timepicker\bootstrap-timepicker.min.js" />
     <Content Include="EstilosSac\Estilos.css" />
-    <Content Include="Modulos\Contrato\Contrato.aspx" />
+    <Content Include="Modulos\Contratos\GestionarContrato.aspx" />
+    <Content Include="Modulos\Contratos\MuestraContrato.aspx" />
     <Content Include="PaginaInicio.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modulos\Contrato\Contrato.aspx.cs">
-      <DependentUpon>Contrato.aspx</DependentUpon>
+    <Compile Include="Modulos\Contratos\GestionarContrato.aspx.cs">
+      <DependentUpon>GestionarContrato.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Modulos\Contrato\Contrato.aspx.designer.cs">
-      <DependentUpon>Contrato.aspx</DependentUpon>
+    <Compile Include="Modulos\Contratos\GestionarContrato.aspx.designer.cs">
+      <DependentUpon>GestionarContrato.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Modulos\Contratos\MuestraContrato.aspx.cs">
+      <DependentUpon>MuestraContrato.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Modulos\Contratos\MuestraContrato.aspx.designer.cs">
+      <DependentUpon>MuestraContrato.aspx</DependentUpon>
     </Compile>
     <Compile Include="PaginaInicio.aspx.cs">
       <DependentUpon>PaginaInicio.aspx</DependentUpon>

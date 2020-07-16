@@ -45,5 +45,11 @@
     <Compile Include="ContratoDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaSac.Domain\SistemaSac.Dominio.csproj">
+      <Project>{2AA6FDD3-E647-447D-BB43-B1939D77C9AD}</Project>
+      <Name>SistemaSac.Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

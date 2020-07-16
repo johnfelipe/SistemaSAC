@@ -1,5 +1,3 @@
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csprojAssemblyReference.cache
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csproj.CoreCompileInputs.cache
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Front.dll.config
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Front.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Front.pdb
@@ -30,11 +28,15 @@ C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\roslyn\vbc.r
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\roslyn\VBCSCompiler.exe
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Domain.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Dominio.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Negocio.dll
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Domain.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Infrastructure.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Dominio.pdb
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Negocio.pdb
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\SistemaSac.Infrastructure.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csprojAssemblyReference.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csproj.CoreCompileInputs.cache
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csproj.CopyComplete
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.pdb

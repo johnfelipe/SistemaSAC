@@ -1,8 +1,8 @@
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Negocio.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Negocio.pdb
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Domain.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Dominio.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Infrastructure.dll
-C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Domain.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Dominio.pdb
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\bin\Debug\SistemaSac.Infrastructure.pdb
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\obj\Debug\SistemaSac.Negocio.csprojAssemblyReference.cache
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Negocio\obj\Debug\SistemaSac.Negocio.csproj.CoreCompileInputs.cache

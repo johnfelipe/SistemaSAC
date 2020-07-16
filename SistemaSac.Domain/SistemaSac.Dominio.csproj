@@ -7,8 +7,8 @@
     <ProjectGuid>{2AA6FDD3-E647-447D-BB43-B1939D77C9AD}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SistemaSac.Domain</RootNamespace>
-    <AssemblyName>SistemaSac.Domain</AssemblyName>
+    <RootNamespace>SistemaSac.Dominio</RootNamespace>
+    <AssemblyName>SistemaSac.Dominio</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
