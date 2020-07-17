@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Front", "SistemaSac.Front\SistemaSac.Front.csproj", "{988D2256-C523-4449-B89D-E10658F72382}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Infraestructura", "SistemaSac.Infrastructure\SistemaSac.Infraestructura.csproj", "{F8198F65-7BB2-47E9-BACD-0EF414D2178B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Infraestructura", "SistemaSac.Infraestructura\SistemaSac.Infraestructura.csproj", "{F8198F65-7BB2-47E9-BACD-0EF414D2178B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Dominio", "SistemaSac.Domain\SistemaSac.Dominio.csproj", "{2AA6FDD3-E647-447D-BB43-B1939D77C9AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Dominio", "SistemaSac.Dominio\SistemaSac.Dominio.csproj", "{2AA6FDD3-E647-447D-BB43-B1939D77C9AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Negocio", "SistemaSac.Negocio\SistemaSac.Negocio.csproj", "{8ED1809D-D276-46E3-8071-DE7CBC88006F}"
 EndProject

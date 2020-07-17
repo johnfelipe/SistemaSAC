@@ -46,8 +46,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SistemaSac.Domain\SistemaSac.Dominio.csproj">
-      <Project>{2AA6FDD3-E647-447D-BB43-B1939D77C9AD}</Project>
+    <ProjectReference Include="..\SistemaSac.Dominio\SistemaSac.Dominio.csproj">
+      <Project>{2aa6fdd3-e647-447d-bb43-b1939d77c9ad}</Project>
       <Name>SistemaSac.Dominio</Name>
     </ProjectReference>
   </ItemGroup>

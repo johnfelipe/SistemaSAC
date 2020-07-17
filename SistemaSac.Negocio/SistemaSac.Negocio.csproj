@@ -45,11 +45,11 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\SistemaSac.Domain\SistemaSac.Dominio.csproj">
+    <ProjectReference Include="..\SistemaSac.Dominio\SistemaSac.Dominio.csproj">
       <Project>{2aa6fdd3-e647-447d-bb43-b1939d77c9ad}</Project>
       <Name>SistemaSac.Dominio</Name>
     </ProjectReference>
-    <ProjectReference Include="..\SistemaSac.Infrastructure\SistemaSac.Infraestructura.csproj">
+    <ProjectReference Include="..\SistemaSac.Infraestructura\SistemaSac.Infraestructura.csproj">
       <Project>{f8198f65-7bb2-47e9-bacd-0ef414d2178b}</Project>
       <Name>SistemaSac.Infraestructura</Name>
     </ProjectReference>
