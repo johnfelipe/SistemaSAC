@@ -1,17 +1,14 @@
 ﻿using SistemaSac.Dominio.Entidades;
-using SistemaSac.Negocio;
+using SistemaSac.Negocio.Servicios;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Services;
 using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace SistemaSac.Front.Modulos.Contratos
 {
-    public partial class MuestraContrato : System.Web.UI.Page
+    public partial class MuestraContrato : Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
         {
 
@@ -26,8 +23,8 @@ namespace SistemaSac.Front.Modulos.Contratos
         {
             Contrato _objcontrato = null;
             try
-            {
-                _objcontrato = ContratoLn.GetInstance().ObtenerContratoDao();
+            {                
+                _objcontrato = ContratoServicios.GetInstance().ObtenerContrato();
             }
             catch (Exception ex)
             {

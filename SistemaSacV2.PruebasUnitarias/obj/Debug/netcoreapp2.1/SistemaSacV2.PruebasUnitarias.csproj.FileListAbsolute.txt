@@ -1,0 +1,14 @@
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.deps.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.runtimeconfig.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.runtimeconfig.dev.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.csprojAssemblyReference.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.csproj.CoreCompileInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.AssemblyInfoInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.AssemblyInfo.cs
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasUnitarias\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasUnitarias.pdb

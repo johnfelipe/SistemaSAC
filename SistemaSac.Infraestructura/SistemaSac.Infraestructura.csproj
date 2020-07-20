@@ -42,14 +42,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ConexionDb.cs" />
-    <Compile Include="ContratoDao.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorios\ContratoRepositorio.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SistemaSac.Dominio\SistemaSac.Dominio.csproj">
       <Project>{2aa6fdd3-e647-447d-bb43-b1939d77c9ad}</Project>
       <Name>SistemaSac.Dominio</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,25 +1,22 @@
 ﻿using SistemaSac.Dominio.Entidades;
+using SistemaSac.Dominio.Interfaces;
 using System;
-using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace SistemaSac.Infrastructure
+namespace SistemaSac.Infrastructure.Repositorios
 {
-    public class ContratoDao
+    public class ContratoRepositorio : IContratoRepositorio
     {
         #region "Patron Singleton"
-        private static ContratoDao _pacienteDAO = null;
-        private ContratoDao() { }
-        public static ContratoDao GetInstance()
+        private static ContratoRepositorio _contratoRepositorio = null;
+        private ContratoRepositorio() { }
+        public static ContratoRepositorio GetInstance()
         {
-            if (_pacienteDAO == null)
+            if (_contratoRepositorio == null)
             {
-                _pacienteDAO = new ContratoDao();
+                _contratoRepositorio = new ContratoRepositorio();
             }
-            return _pacienteDAO;
+            return _contratoRepositorio;
         }
         #endregion
 

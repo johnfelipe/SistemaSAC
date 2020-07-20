@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Dominio", "Siste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSac.Negocio", "SistemaSac.Negocio\SistemaSac.Negocio.csproj", "{8ED1809D-D276-46E3-8071-DE7CBC88006F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{185CAEB3-D185-4397-A17F-AB42BC708449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSacV2.PruebasUnitarias", "SistemaSacV2.PruebasUnitarias\SistemaSacV2.PruebasUnitarias.csproj", "{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaSacV2.PruebasIntegracion", "SistemaSacV2.PruebasIntegracion\SistemaSacV2.PruebasIntegracion.csproj", "{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,9 +39,21 @@ Global
 		{8ED1809D-D276-46E3-8071-DE7CBC88006F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED1809D-D276-46E3-8071-DE7CBC88006F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED1809D-D276-46E3-8071-DE7CBC88006F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{40EBC5DA-A18C-4C33-BADB-DAF162E8CF00} = {185CAEB3-D185-4397-A17F-AB42BC708449}
+		{7E0DFAB0-2AB9-43D3-9158-6FA4A455D692} = {185CAEB3-D185-4397-A17F-AB42BC708449}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8E93B84F-0494-4D32-B9C0-644B552D1334}

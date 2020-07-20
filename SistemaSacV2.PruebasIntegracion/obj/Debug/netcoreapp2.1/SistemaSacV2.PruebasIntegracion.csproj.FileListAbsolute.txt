@@ -1,0 +1,14 @@
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.deps.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.runtimeconfig.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.runtimeconfig.dev.json
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\bin\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.csprojAssemblyReference.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.csproj.CoreCompileInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.AssemblyInfoInputs.cache
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.AssemblyInfo.cs
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSacV2.PruebasIntegracion\obj\Debug\netcoreapp2.1\SistemaSacV2.PruebasIntegracion.pdb

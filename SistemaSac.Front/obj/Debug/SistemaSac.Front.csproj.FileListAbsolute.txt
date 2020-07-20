@@ -40,3 +40,11 @@ C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\Sistem
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.csproj.CopyComplete
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.dll
 C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\obj\Debug\SistemaSac.Front.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Unity.Abstractions.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Unity.Container.dll
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Unity.Abstractions.pdb
+C:\Users\MauricioACV\source\repos\SistemaSacV2\SistemaSac.Front\bin\Unity.Container.pdb
